@@ -1,0 +1,6 @@
+str1 = input("Enter a string: ")
+str2 = input("Enter another string: ")
+print("Concatenated string:", str1+str2, sep = " ", end = "!")
+print("Hello", 5)
+print(str1, str2)
+print(5)
