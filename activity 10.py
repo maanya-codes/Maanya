@@ -1,0 +1,5 @@
+math = int(input("Enter Math Marks /100:"))
+eng = int(input("Enter English Marks /100:"))
+sci = int(input("Enter Science Marks /100:"))
+hin = int(input("Enter Hindi Marks /100:"))
+print("The average percentage is", (math+eng+sci+hin)/4, "%")
